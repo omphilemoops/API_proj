@@ -123,3 +123,20 @@ API Endpoint Plan
 SQL Database Script
 
 These documents provide the foundation for developing the RESTful API in Part 2.
+
+10. Future Development
+
+In Part 2, the planned system will be developed into a working ASP.NET Core RESTful API.
+
+The API will include:
+
+Database connectivity.
+Authentication.
+Organiser and Participant roles.
+Event management.
+Category management.
+Event enrolments.
+Results management.
+Swagger documentation.
+Unit testing.
+GitHub Actions CI/CD.
