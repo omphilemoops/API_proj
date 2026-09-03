@@ -17,3 +17,17 @@ Create a SQL Server database script.
 Identify the different user roles and their responsibilities.
 Prepare the project for development in Part 2.
 
+3. User Roles
+Organiser
+
+An Organiser is responsible for managing race events.
+
+An Organiser can:
+
+Create events.
+Edit events.
+Delete events.
+Manage event categories.
+View participant enrolments.
+Capture participant results.
+Manage event information.
