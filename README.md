@@ -92,3 +92,13 @@ Relationships.
 Required sample data.
 
 The database structure in the SQL script is designed to match the ERD.
+
+7. Folder Structure
+RaceDay
+│
+|
+│   ├── RaceDay_ERD.png
+│   ├── RaceDay_API_Endpoint_Plan.pdf
+│   └── RaceDay_Database.sql
+│
+└── README.md
