@@ -140,3 +140,23 @@ Results management.
 Swagger documentation.
 Unit testing.
 GitHub Actions CI/CD.
+
+10. RESTful API Design
+
+The RaceDay system will use a RESTful API in Part 2.
+
+The API will use standard HTTP methods, including:
+
+GET – Retrieve information.
+POST – Create new information.
+PUT – Update existing information.
+DELETE – Remove information.
+
+The API routes will follow a consistent structure beginning with /api/.
+
+Example:
+
+GET /api/events
+POST /api/events
+PUT /api/events/1
+DELETE /api/events/1
