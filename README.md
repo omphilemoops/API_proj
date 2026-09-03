@@ -113,3 +113,13 @@ SQL Server
 SQL Server Management Studio (SSMS)
 GitHub
 GitHub Actions
+
+9. Part 1 Status
+
+Part 1 planning consists of:
+
+Entity Relationship Diagram (ERD)
+API Endpoint Plan
+SQL Database Script
+
+These documents provide the foundation for developing the RESTful API in Part 2.
