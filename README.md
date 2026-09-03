@@ -64,3 +64,14 @@ Description
 Role Required
 Request Body
 Expected Response
+
+The planned API functionality covers:
+
+Authentication
+User Profile
+Events
+Categories
+Event Enrolments
+Results
+
+The completed endpoint plan is included in the /docs folder.
