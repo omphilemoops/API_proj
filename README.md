@@ -213,7 +213,7 @@ The request.
 The response.
 Possible errors.
 
-18. Continuous Integration and Continuous Deployment
+Continuous Integration and Continuous Deployment
 
 GitHub Actions will be used to automate the project build and testing process.
 
@@ -225,3 +225,27 @@ Check whether the tests pass.
 Display the workflow result on GitHub.
 
 A successful workflow will be shown with a green check mark.
+
+Setup Instructions
+Requirements
+
+The following software is required to work with the project:
+
+Visual Studio.
+.NET SDK.
+SQL Server.
+SQL Server Management Studio (SSMS).
+Git.
+GitHub account.
+Database Setup
+Open SQL Server Management Studio.
+Open RaceDay_Database.sql.
+Execute the SQL script.
+Confirm that the RaceDay database and tables were created successfully.
+Project Setup
+Clone the GitHub repository.
+Open the project in Visual Studio.
+Ensure that the required .NET SDK is installed.
+Configure the database connection.
+Build the project.
+Run the application.
