@@ -31,3 +31,18 @@ Manage event categories.
 View participant enrolments.
 Capture participant results.
 Manage event information.
+
+Participant
+
+A Participant is a user who takes part in events.
+
+A Participant can:
+
+Create an account.
+Log in.
+Browse available events.
+View event information.
+Enrol in an event.
+Select an event category.
+View their enrolments.
+View their personal results.
