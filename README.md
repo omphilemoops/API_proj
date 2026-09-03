@@ -51,3 +51,16 @@ View their personal results.
 The ERD represents the database structure for the RaceDay system.
 The ERD includes the entities, attributes, primary keys, foreign keys and relationships required by the system.
 The ERD is included in the /docs folder.
+
+5. Section B – API Endpoint Plan
+
+The API endpoint plan identifies the RESTful endpoints that will be implemented in Part 2.
+
+The endpoint plan includes:
+
+HTTP Method
+Route
+Description
+Role Required
+Request Body
+Expected Response
