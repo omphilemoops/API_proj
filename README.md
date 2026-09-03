@@ -212,3 +212,16 @@ The route.
 The request.
 The response.
 Possible errors.
+
+18. Continuous Integration and Continuous Deployment
+
+GitHub Actions will be used to automate the project build and testing process.
+
+The CI/CD workflow will:
+
+Build the project.
+Run the unit tests.
+Check whether the tests pass.
+Display the workflow result on GitHub.
+
+A successful workflow will be shown with a green check mark.
