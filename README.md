@@ -102,3 +102,14 @@ RaceDay
 │   └── RaceDay_Database.sql
 │
 └── README.md
+
+8. Technologies Used
+
+The technologies planned for the RaceDay project include:
+
+C#
+ASP.NET Core Web API
+SQL Server
+SQL Server Management Studio (SSMS)
+GitHub
+GitHub Actions
