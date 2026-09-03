@@ -255,3 +255,10 @@ Video Presentation
 An unlisted YouTube video will be provided as part of the submission.
 
 The video will demonstrate the working application and explain the development process.
+
+
+Conclusion
+
+Part 1 establishes the foundation for the RaceDay system by defining the database structure, API requirements and SQL database script.
+
+The ERD, API Endpoint Plan and SQL script provide a clear plan for the development of the RESTful API in Part 2.
