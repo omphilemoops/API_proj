@@ -46,3 +46,8 @@ Enrol in an event.
 Select an event category.
 View their enrolments.
 View their personal results.
+
+4. Section A – Entity Relationship Diagram
+The ERD represents the database structure for the RaceDay system.
+The ERD includes the entities, attributes, primary keys, foreign keys and relationships required by the system.
+The ERD is included in the /docs folder.
