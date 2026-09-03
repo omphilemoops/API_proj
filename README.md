@@ -197,4 +197,18 @@ Event management.
 Role-based access.
 Event enrolments.
 
-The tests will also be executed through the GitHub Actions CI/CD workflo
+The tests will also be executed through the GitHub Actions CI/CD workflow
+
+Swagger
+
+Swagger will be used in Part 2 to document and test the API.
+
+Swagger will allow the implemented endpoints to be viewed and tested directly through a web browser.
+
+Each endpoint will provide information about:
+
+The HTTP method.
+The route.
+The request.
+The response.
+Possible errors.
