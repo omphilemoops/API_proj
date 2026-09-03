@@ -249,3 +249,9 @@ Ensure that the required .NET SDK is installed.
 Configure the database connection.
 Build the project.
 Run the application.
+
+Video Presentation
+
+An unlisted YouTube video will be provided as part of the submission.
+
+The video will demonstrate the working application and explain the development process.
