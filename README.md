@@ -71,7 +71,24 @@ Authentication
 User Profile
 Events
 Categories
+
+
 Event Enrolments
 Results
 
 The completed endpoint plan is included in the /docs folder.
+
+6. Section C – SQL Database Script
+
+The SQL script is used to create and populate the RaceDay database using SQL Server Management Studio (SSMS).
+
+The SQL script includes:
+
+Database creation.
+Table creation.
+Primary keys.
+Foreign keys.
+Relationships.
+Required sample data.
+
+The database structure in the SQL script is designed to match the ERD.
