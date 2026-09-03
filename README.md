@@ -124,7 +124,7 @@ SQL Database Script
 
 These documents provide the foundation for developing the RESTful API in Part 2.
 
-10. Future Development
+ Future Development
 
 In Part 2, the planned system will be developed into a working ASP.NET Core RESTful API.
 
@@ -141,7 +141,7 @@ Swagger documentation.
 Unit testing.
 GitHub Actions CI/CD.
 
-10. RESTful API Design
+ RESTful API Design
 
 The RaceDay system will use a RESTful API in Part 2.
 
@@ -161,7 +161,7 @@ POST /api/events
 PUT /api/events/1
 DELETE /api/events/1
 
-11. Authentication and Authorisation
+Authentication and Authorisation
 
 The system will support user registration and login.
 
@@ -177,3 +177,24 @@ Participant
 Organisers will have access to event management and result management functionality.
 
 Participants will have access to event browsing, enrolment and personal result functionality.
+
+Testing
+
+Testing will be implemented during Part 2.
+
+Unit tests will be used to verify that the API behaves correctly.
+
+Testing will include both:
+
+Successful requests.
+Unsuccessful requests.
+
+Testing will cover areas such as:
+
+User registration.
+User login.
+Event management.
+Role-based access.
+Event enrolments.
+
+The tests will also be executed through the GitHub Actions CI/CD workflo
