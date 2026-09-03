@@ -160,3 +160,20 @@ GET /api/events
 POST /api/events
 PUT /api/events/1
 DELETE /api/events/1
+
+11. Authentication and Authorisation
+
+The system will support user registration and login.
+
+Authentication will be used to identify users.
+
+Authorisation will be used to determine what functionality each user is allowed to access.
+
+The two roles are:
+
+Organiser
+Participant
+
+Organisers will have access to event management and result management functionality.
+
+Participants will have access to event browsing, enrolment and personal result functionality.
